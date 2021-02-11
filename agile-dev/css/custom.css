@@ -83,6 +83,34 @@
     margin-bottom: 50px;
 }
 
+.text0 {
+    color: black;
+    text-align: center;
+}
+
+.text1 {
+    color: white;
+    text-align: left;
+}
+
+.text2 {
+    color: white;
+    text-align: center;
+}
+
+input {
+  background-color: white;
+}
+
+.form-footer{
+  display: flex;
+  margin: 0;
+
+}
+.footer-container-items{
+  display: flex;
+  align-items: center;
+
 /*HEADERRR */
 
 button{
@@ -168,4 +196,5 @@ nav ul{
   padding: 100px;
   padding-top: 40px;
   padding-bottom: 40px;
+
 }
