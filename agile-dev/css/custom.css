@@ -1,0 +1,38 @@
+#benefice{
+    width: 100%;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+#benefice img{
+    max-height: 450px;
+  }
+
+#feature{
+    width: 100%;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+#feature img{
+    max-height: 450px;
+  }
+
+  #concours{
+    
+    margin: 20px;
+    margin-top: 50px;
+}
+
+ .imgkek{
+   width:100%; 
+  }
+
+  .margindegueu{
+    margin-top: 50px;
+  }
+
+  #concours form{
+    padding-top: 50px;
+    padding: 30px;
+  }
