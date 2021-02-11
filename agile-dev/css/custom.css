@@ -83,7 +83,15 @@
     margin-bottom: 50px;
 }
 
+/*HEADERRR */
 
+button{
+  background-color: #EF5F44;
+}
+
+#dnn{
+  float: right;
+}
 
 #headerpage{
   width: 100%;
@@ -103,6 +111,28 @@
   padding-bottom: 40px;
 }
 
+#avd{
+  background-color: #dfdfdf
+}
+
+.p1{
+  color: black;
+  float: inline-end;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.avdimgs{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.avdimg{
+
+}
 
 nav .imgNav{
   float: left;
@@ -116,7 +146,7 @@ nav ul{
 }
 
 #sit{
-  text-align: center;
+  text-align: left;
   width: 400px;
   height: auto;
   margin: auto;
