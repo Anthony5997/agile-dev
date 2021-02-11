@@ -8,10 +8,20 @@
     max-height: 450px;
   }
 
-#feature{
+  #benefice2{
     width: 100%;
     margin: 20px;
     margin-top: 50px;
+}
+
+#benefice2 img{
+    max-height: 450px;
+  }
+
+#feature{
+    width: 100%;
+  
+    background-color: #DFDFDF;
 }
 
 #feature img{
@@ -29,7 +39,7 @@
   }
 
   .margindegueu{
-    margin-top: 50px;
+    margin-top: 30px;
   }
 
   #concours form{
@@ -39,10 +49,15 @@
 
   /* FOOTER */
 
-  footer {
+  footer{
     background-color: black;
     background: black;
     padding-top: 50px;
+}
+
+.pf{
+  color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 .premierlogo {
@@ -95,4 +110,91 @@ input {
 .footer-container-items{
   display: flex;
   align-items: center;
+
+/*HEADERRR */
+
+button{
+  background-color: #EF5F44;
+}
+
+#dnn{
+  float: right;
+}
+
+#headerpage{
+  width: 100%;
+  height: 100%;
+  background-color: #dfdfdf;
+}
+
+.nav{
+  background-color: #000000;
+  padding: 0px;
+  height: 70px;
+  padding-right: 40px;
+  padding-left: 20px;
+}
+
+.p, .h1, .appsisize {
+  padding-bottom: 40px;
+}
+
+#avd{
+  background-color: #dfdfdf
+}
+
+.p1{
+  color: black;
+  float: inline-end;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.avdimgs{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.avdimg{
+
+}
+
+nav .imgNav{
+  float: left;
+  display:flex ;
+  width: 5%;
+  height: auto;
+}
+
+nav ul{
+  float: right;
+}
+
+#sit{
+  text-align: left;
+  width: 400px;
+  height: auto;
+  margin: auto;
+}
+.col.s6.block-header{
+  display: flex;
+}
+
+.he{
+  padding-top: 0px;
+}
+
+.appsisize{
+  width: 140px;
+  height: auto;
+}
+
+.rowYolo{
+  padding: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
 }
