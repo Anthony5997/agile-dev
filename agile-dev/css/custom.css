@@ -110,7 +110,7 @@ input {
 .footer-container-items{
   display: flex;
   align-items: center;
-
+}
 /*HEADERRR */
 
 button{
@@ -156,10 +156,6 @@ button{
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-around;
-}
-
-.avdimg{
-
 }
 
 nav .imgNav{
