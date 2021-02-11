@@ -72,3 +72,59 @@ p {
     color: white;
     text-align: center;
 }
+
+
+#headerpage{
+  width: 100%;
+  height: 100%;
+  background-color: #dfdfdf;
+}
+
+.nav{
+  background-color: #000000;
+  padding: 0px;
+  height: 70px;
+  padding-right: 40px;
+  padding-left: 20px;
+}
+
+p, h1, .appsisize {
+  padding-bottom: 40px;
+}
+
+
+nav img{
+  float: left;
+  display:flex ;
+  width: 5%;
+  height: auto;
+}
+
+nav ul{
+  float: right;
+}
+
+#sit{
+  text-align: center;
+  width: 400px;
+  height: auto;
+  margin: auto;
+}
+.col.s6.block-header{
+  display: flex;
+}
+
+.he{
+  padding-top: 0px;
+}
+
+.appsisize{
+  width: 140px;
+  height: auto;
+}
+
+.row{
+  padding: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
