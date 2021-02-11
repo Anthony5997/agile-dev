@@ -8,6 +8,16 @@
     max-height: 450px;
   }
 
+  #benefice2{
+    width: 100%;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+#benefice2 img{
+    max-height: 450px;
+  }
+
 #feature{
     width: 100%;
     margin: 20px;
@@ -29,7 +39,7 @@
   }
 
   .margindegueu{
-    margin-top: 50px;
+    margin-top: 30px;
   }
 
   #concours form{
