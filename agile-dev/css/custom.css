@@ -39,10 +39,15 @@
 
   /* FOOTER */
 
-  footer {
+  footer{
     background-color: black;
     background: black;
     padding-top: 50px;
+}
+
+.pf{
+  color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 .premierlogo {
@@ -68,10 +73,6 @@
     margin-bottom: 50px;
 }
 
-p {
-    color: white;
-    text-align: center;
-}
 
 
 #headerpage{
@@ -88,12 +89,12 @@ p {
   padding-left: 20px;
 }
 
-p, h1, .appsisize {
+.p, .h1, .appsisize {
   padding-bottom: 40px;
 }
 
 
-nav img{
+nav .imgNav{
   float: left;
   display:flex ;
   width: 5%;
@@ -123,7 +124,7 @@ nav ul{
   height: auto;
 }
 
-.row{
+.rowYolo{
   padding: 100px;
   padding-top: 40px;
   padding-bottom: 40px;
